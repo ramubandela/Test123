@@ -4,8 +4,9 @@ public class Test {
 
 	public static void m1() {
 
-		System.out.println("test");
+		System.out.println("test123");
 	}
+	
 	public final void m3()
 	{
 		
